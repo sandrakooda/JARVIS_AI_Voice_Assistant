@@ -1,0 +1,2 @@
+gmail_password="clwe apik esrb tbxc"
+openai_key="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"
